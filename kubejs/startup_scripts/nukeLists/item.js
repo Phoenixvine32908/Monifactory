@@ -287,6 +287,7 @@ global.itemNukeList = [
     "thermal:sawdust",
     "thermal:sulfur",
     "thermal:tar",
+    "thermal:refined_fuel_bucket",
     /^thermal:.*_cast$/,
 
     // Thermal Series Machines
