@@ -394,6 +394,7 @@ global.itemNukeList = [
     "nuclearcraft:dominos",
     "nuclearcraft:radaway",
     "nuclearcraft:coil_bscco",
+    "nuclearcraft:supercold_ice_block",
     "nuclearcraft:silicon_wafer",
     "nuclearcraft:basic_processor",
     "nuclearcraft:advanced_processor",
